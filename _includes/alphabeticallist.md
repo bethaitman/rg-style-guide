@@ -11,6 +11,8 @@ Adjectives (eg "try the 14-day trial").
 
 <a name="a"></a>
 
+#A
+
 ##abbreviations and acronyms
 
 Don't use full stops in abbreviations; eg write TFS, not T.F.S.
@@ -61,6 +63,8 @@ When talking generically about software, use application instead of program, too
 
 <a name="b"></a>
 
+#B
+
 ##backlog
 One word.
 
@@ -99,6 +103,8 @@ Only capitalize the first word (eg "Link to source control").
 For advice about when to use dots at the end of button names, see ellipsis.
 
 <a name="c"></a>
+
+#C
 
 ##C\#
 Not c#, C Sharp, etc.
@@ -198,6 +204,8 @@ For a generic word for users of our products, write user instead. For example: "
 
 <a name="d"></a>
 
+#D
+
 ##data
 Singular; write "data is lost", not "data are lost". No one ever uses "datum".
 
@@ -245,6 +253,8 @@ Use to distinguish applications that are downloaded and installed on your comput
 With hyphen.
 
 <a name="e"></a>
+
+#E
 
 ##earlier (version numbers)
 eg "SQL Source Control 3.2 or earlier", not older.
@@ -301,6 +311,8 @@ The exception is PDF, which has become its own word (eg "available as a PDF"). F
 
 <a name="f"></a>
 
+#F
+
 ##file path
 Two words, no hyphen.
 
@@ -329,6 +341,8 @@ Not for free; eg "SQL Search is available free".
 
 <a name="g"></a>
 
+#G
+
 ##MB, GB, Mb, Gb
 MB, GB: for hard disks, memory and file sizes. (An uppercase B indicates bytes.)
 
@@ -351,6 +365,8 @@ No hyphen.
 
 <a name="h"></a>
 
+#H
+
 ##host name
 two words.
 
@@ -358,6 +374,8 @@ two words.
 Avoid. Write "move the mouse over" instead.
 
 <a name="i"></a>
+
+#I
 
 ##icons
 Sometimes it's more helpful to include an image of a UI element rather than describe it.
@@ -394,6 +412,8 @@ Italicize:
 
 <a name="j"></a>
 
+#J
+
 ##jargon
 "The practice of never calling a spade a spade when you might instead call it a manual earth-restructuring implement." - Bill Bryson
 
@@ -425,7 +445,11 @@ Lowercase. For example, James Duffy is a technical writer, not a Technical Write
 
 <a name="k"></a>
 
+#K
+
 <a name="l"></a>
+
+#L
 
 ##later (version numbers)
 eg "SQL Source Control 3.2 or later", not higher.
@@ -492,6 +516,8 @@ You can get logos from W:\Public Design Work\LOGOS_x\LOGOS
 
 <a name="m"></a>
 
+#M
+
 ##make sure
 Not ensure, which sounds pompous.
 
@@ -535,6 +561,8 @@ Not to be used as a verb object; write "scroll using the mouse wheel", not "scro
 
 <a name="n"></a>
 
+#N
+
 ##n/a
 Lowercase.
 
@@ -547,6 +575,8 @@ If you have both in the same sentence, only use digits.
 No hyphen.
 
 <a name="o"></a>
+
+#O
 
 ##Object Explorer
 Uppercase, because Microsoft named it, not us.
@@ -575,6 +605,8 @@ You wouldn't write "underly", so don't write "overly".
 Write "overcomplex", "overqualified", etc. If you're unconvinced, use "too" instead.
 
 <a name="p"></a>
+
+#P
 
 ##page
 When referring to content on documentation.red-gate.com, use "page" instead of "topic" or "article".
@@ -617,10 +649,14 @@ No full stops (in this or any other acronym).
 
 <a name="q"></a>
 
+#Q
+
 ##quotation marks
 Use double quotation marks ("). Use single quotation marks (') for quotations within quotations.
 
 <a name="r"></a>
+
+#R
 
 ##re/re-
 Use re- (with hyphen) when followed by the vowels e or u (not pronounced as "yu"): eg re-entry, re-examine.
@@ -652,6 +688,8 @@ Verb (eg "Right-click the file").
 This doesn't need "on" after it; for example, write "right-click the object", not "right-click on the object".
 
 <a name="s"></a>
+
+#S
 
 ##Save as...
 Not Save file as, Save project as, etc. The exception is to use "Save project as…" where it disambiguates from an existing "Save as…" option.
@@ -768,6 +806,8 @@ Not a product name, so tool is lowercase.
 
 <a name="t"></a>
 
+#T
+
 ##table-valued function
 With hyphen.
 
@@ -808,6 +848,8 @@ The word normal humans use is "tools".
 
 <a name="u"></a>
 
+#U
+
 ##update vs upgrade
 Updates are minor releases - eg SQL Monitor 3.1 to 3.2.
 
@@ -836,7 +878,11 @@ One word when referring to the name part of a login. (Read the comments for a fa
 
 <a name="v"></a>
 
+#V
+
 <a name="w"></a>
+
+#W
 
 ##want
 Not wish (we're not genies). For example, write: "If you want to add a new database to source control..."
@@ -875,9 +921,15 @@ A workaround doesn't fix a problem. Instead, it allows the user to get on with t
 
 <a name="x"></a>
 
+#X
+
 <a name="y"></a>
 
+#Y
+
 <a name="z"></a>
+
+#Z
 
 ##zoom in, zoom out
 No hyphen.
