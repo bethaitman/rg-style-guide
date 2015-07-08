@@ -528,9 +528,9 @@ Not may.
 Not migrations script. No caps.
 
 ##monospace
-Use monospace when you want to embed a bit of code or script in normal text, or when you're quoting from text in an XML or SQL file, or a command line, or other techy text thing. 
+Use `monospace` when you want to embed a bit of code or script in normal text, or when you're quoting from text in an XML or SQL file, or a command line, or other techy text thing. 
 
-For example: "You can change the value in the <QueryTimeInMillis> tags to the interval you want."
+For example: "You can change the value in the `<QueryTimeInMillis>` tags to the interval you want."
 
 ##mouse and key actions
 Capitalize as most keyboards do, like this:
