@@ -44,7 +44,7 @@ We should aim for the same.
 
 ##<a name="reference"></a>Useful reference material
 
-This guide is far from comprehensive. Where something isn't covered here, see also:
+This guide is far from comprehensive. Where something isn't covered here, see:
 
 * the [Guardian style guide](http://www.theguardian.com/guardian-observer-style-guide-a) for sensible guidelines on all sorts of writing matters (but remember we use American English)
 * the [gov.uk style guide](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) for nice advice about writing plain English (but remember, again, that we use American English)
