@@ -1,3 +1,28 @@
+##Error messages
+Error messages are important. They're an integral part of the user experience, and users are far more annoyed by bad error messages than they are delighted by a cool UI.
+
+* Explain, in the following order: what went wrong, why, and (if possible) how to fix it.
+
+* Be precise. If the cause is unknown, say so.
+
+* Be succinct. Users don't want to read an essay. They may search Google or our documentation for the error text, or quote it to the support team, so make sure it's as concise and readable as possible.
+
+* Link to any relevant documentation. If you're not sure if there's a page describing the problem, ask a technical writer. If there isn't one and you think there should be, shout at a technical writer.
+
+* Provide a Close button rather than OK. Having to click "OK" when an application fails makes the user feel like they're being held hostage and forced to agree to bad things.
+
+* Don't try to be apologetic ("Sorry, your data couldn't be recovered") or funny ("Yikes! Where'd your data go?"). Keep the tone neutral and stick to the facts.
+
+* Is the message a warning (ie something bad might happen if you continue)? Use a yellow triangle. Is it an error (ie something bad already happened)? Use a red stop icon.
+
+* Typos add insult to injury and give a poor impression of the quality of our tools. Read the message out loud to find mistakes, and get someone else to review it.
+
+* Where is the error message displayed? Is it a separate dialog box or in a GUI? If it's a separate dialog box, its title should typically contain the name of the application.
+
+* Would someone who isn't a developer for this application understand the problem described?
+
+---
+
 ##Release notes
 Our release notes have been wildly inconsistent over the years. Here's our recommended format, with an example afterwards:
 
