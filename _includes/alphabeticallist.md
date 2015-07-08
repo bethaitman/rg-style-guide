@@ -857,12 +857,6 @@ One word when referring to the name part of a login. (Read the comments for a fa
 
 <a name="v"></a>
 
-##video
-When creating a video:
-* keep mouse movements smooth
-* highlight clicks only if necessary for clarity
-* accelerate sections of typing (after the video has been filmed)
-
 <a name="w"></a>
 
 ##want
