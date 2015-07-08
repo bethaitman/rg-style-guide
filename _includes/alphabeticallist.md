@@ -100,7 +100,7 @@ For advice about when to use dots at the end of button names, see ellipsis.
 
 <a name="c"></a>
 
-##C#
+##C\#
 Not c#, C Sharp, etc.
 
 ##capitals
