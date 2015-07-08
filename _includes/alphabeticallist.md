@@ -578,7 +578,8 @@ Write "overcomplex", "overqualified", etc. If you're unconvinced, use "too" inst
 
 ##page
 When referring to content on documentation.red-gate.com, use "page" instead of "topic" or "article".
-page titles, headings, email subjects etc
+
+##page titles, headings, email subjects etc
 
 Use sentence case. This means you capitalize only the first word of the heading; subsequent words are all lowercase (except for proper nouns, acronyms, etc).
 
