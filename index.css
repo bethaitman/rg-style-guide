@@ -1,6 +1,11 @@
 body {
 	font-family: Lato;
 	box-sizing: border-box;
+  color: #767676;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+  color: #2B2B2B;
 }
 
 #layout {
@@ -65,7 +70,6 @@ body {
 
 .Header-link:hover {
   color: #2B2B2B;
-  text-decoration: underline;
 }
 
 .Header-link.active {
@@ -157,6 +161,93 @@ body {
 	height: 100%;
 }
 
+.content .sub-heading {
+  color: #767676;
+}
+
+.content a {
+  transition: all 0.3s ease;
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  color: #767676;
+  border-bottom-color: #1696e5;
+}
+
+.content a:hover {
+  color: #1696e5;
+}
+
+.content aside.island {
+  display: block;
+  margin-bottom: 1.5rem;
+  background-color: #f2f9fe;
+  color: #0F6499;
+  border-color: #bad6e7 !important;
+  border-radius: 0.5625rem;
+}
+
+.content aside.island--padded {
+  padding: 10px 30px;
+}
+
+
+.content.lightest-grey {
+  background-color: #f6f6f6;
+  border-color: #dcdcdc;
+}
+
+.content.lightest-grey aside.island {
+  background-color: #fff;
+  border-color: #dcdcdc;
+  color: #373737;
+}
+
+
+.content.lightest-blue {
+  background-color: #f2f9fe;
+  color: #0F6499;
+  border-color: #bad6e7 !important;
+}
+
+.content.lightest-blue p, .content.lightest-blue ul, .content.lightest-blue ol, .content.lightest-blue dd, .content.lightest-blue label {
+  color: #0F6499;
+}
+
+.content.lightest-blue aside.island {
+  background-color: #093A59;
+  border-color: #767676;
+  color: #f6f6f6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.content.lightest-blue aside.island h2, .content.lightest-blue aside.island p {
+  color: #f6f6f6;
+}
+
+
+.content.darkest-grey {
+  background-color: #373737;
+  border-color: #767676;
+  color: #f6f6f6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.content.darkest-grey h1, .content.darkest-grey h2, .content.darkest-grey h3 {
+  color: #f6f6f6;
+}
+
+.content.darkest-grey p, .content.darkest-grey ul, .content.darkest-grey ol, .content.darkest-grey dd, .content.darkest-grey label, .content.darkest-grey a {
+  color: #dcdcdc;
+}
+
+.content.darkest-grey aside.island {
+  background-color: #000;
+  border-color: #373737;
+  color: #f6f6f6;
+}
+
+
 .hero {
 	text-align: center;
 	padding-bottom: 10px;
@@ -204,4 +295,6 @@ body {
 hr {
   height: 2px;
   background-color: #009cde;
+  color: #009cde;
+  border: none;
 }
