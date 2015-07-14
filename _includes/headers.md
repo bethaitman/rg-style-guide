@@ -4,9 +4,9 @@
 
 The top bar in all Redgate applications.
 
-Need to work out how many different versions of this there are, then include:
+Need to work out the different versions of the header, then include:
 
-* where to use which one
-* colouring and spacing
-* content
+* where to use which header
+* what they look like (including colouring and spacing, what selected sections look like, etc)
+* what content needs to be in header
 * iconography
