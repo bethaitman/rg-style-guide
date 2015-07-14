@@ -1,11 +1,11 @@
 ---
 layout: site
-section: style
-title: Home
+section: components
+title: Headers
 ---
 
 {% include header.html %}
 <div class="content">
-  {% capture my_include %}{% include intro.md %}{% endcapture %}
+  {% capture my_include %}{% include headers.md %}{% endcapture %}
   {{ my_include | markdownify }}
 </div>
