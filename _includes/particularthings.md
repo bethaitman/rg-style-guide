@@ -1,3 +1,7 @@
+[\< Writing](writing.html)
+
+# How to write particular things
+
 ##Error messages
 Error messages are important. They're an integral part of the user experience, and users are far more annoyed by bad error messages than they are delighted by a cool UI.
 

@@ -6,4 +6,6 @@ title: Icons
 
 {% include header.html %}
 <div class="content">
+  {% capture my_include %}{% include icons.md %}{% endcapture %}
+  {{ my_include | markdownify }}
 </div>
