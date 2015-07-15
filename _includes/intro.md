@@ -24,7 +24,7 @@ Our fundamental design principles are:
 
 ### Style
 
-This section is about the look and feel we're aiming for in Redgate products -so no matter what technology you're building with, this should apply.
+This section is about the look and feel we're aiming for in Redgate products - so no matter what technology you're building with, this should apply.
 
 [Colours](colours.html)
 
