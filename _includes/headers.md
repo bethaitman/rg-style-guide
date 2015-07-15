@@ -10,3 +10,4 @@ Need to work out the different versions of the header, then include:
 * what they look like (including colouring and spacing, what selected sections look like, etc)
 * what content needs to be in header
 * iconography
+* for web projects, the css classes needed for that styling (using example html)

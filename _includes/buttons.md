@@ -10,6 +10,6 @@ For every style, include:
 * when you'd use them
 * any interactions around them (eg what happens when they're clicked)
 * how to write for them (eg label should be an action)
-* if it's a web project, the css classes needed for that styling
+* for web projects, the css classes needed for that styling (using example html)
 
 Need to think about how to help non-web projects use them.
