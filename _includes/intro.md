@@ -22,7 +22,9 @@ Our fundamental design principles are:
 
 ## Contents
 
-### Style
+### [Style](style.html)
+
+This section is about the look and feel we're aiming for in Redgate products -so no matter what technology you're building with, this should apply.
 
 [Colours](colours.html)
 
@@ -32,7 +34,9 @@ Our fundamental design principles are:
 
 [Writing](writing.html)
 
-### Components
+### [Components](components.html)
+
+This section lists components that can be shared across products, with guidelines for how they should look, and source code for web projects.
 
 [Headers](headers.html)
 
