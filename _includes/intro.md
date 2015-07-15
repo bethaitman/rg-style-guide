@@ -1,6 +1,6 @@
 # Honeycomb: Redgate's design language
 
-Honeycomb is an attempt to unify the style and substance of Redgate's products, website, training and marketing. It's a design language, plus a framework that backs it up.
+Honeycomb is a project to unify the style and substance of Redgate's products, websites, training and marketing. It's a design language, plus a framework that backs it up.
 
 ---
 
